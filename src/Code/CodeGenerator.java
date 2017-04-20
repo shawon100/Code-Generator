@@ -5,7 +5,7 @@
  */
 package Code;
 
-import com.sun.media.jfxmedia.logging.Logger;
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.datatransfer.Clipboard;
@@ -19,7 +19,6 @@ import java.text.NumberFormat;
 import java.util.*;
 import java.util.Scanner;
 import java.util.logging.Level;
-import static javafx.scene.text.FontWeight.BOLD;
 import javax.swing.JFileChooser;
 import javax.swing.*;
 
