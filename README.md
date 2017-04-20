@@ -13,3 +13,7 @@ This Software can Generate Web Component Codes
 * Online Counter
 * Global Counter
 * Text Editor
+
+# Install
+
+Download From Github And Then Extract . Then Open Netbeans And From File Click Open Project. You Have To Clean And Build This Project . Then Go To Code Generator. java File From Source Package And Then Run File
